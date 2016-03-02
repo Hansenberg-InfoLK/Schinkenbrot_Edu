@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Android Studio Tutorial 1</string>
 
-    <string name="welcome_message">Guten Tag!\nWie geht es ihnen heute?</string>
+    <string name="welcome_message">Guten Tag!\nWie heißen sie heute?</string>
 
-    <string name="welcome_message_2">Hallo! Willkommen:\n</string>
+    <string name="welcome_message_2">Hallo !\n </string>
 
     <string name="apply_button">OK</string>
 </resources>
